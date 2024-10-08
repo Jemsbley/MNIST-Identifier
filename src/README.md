@@ -15,7 +15,7 @@ All classes were written and documented by me. There are no written tests for an
 ## Screenshots
 
 Each figure is drawn here in a 5x5 grid, representing the cells that are checked when evaluating the presence of that figure. The darker pixels represent the absolutely necessary cells for the figure to be present, and the light ones represent cells that boost the presence of the figure when active, but do not hinder it when absent. Each figure is assigned an arbitrary letter below it that corresponds with the usage of it in the code. Beneath all of the figure definitions are a few examples of how the figures combine to make digits.
-![App Screenshot](https://imgur.com/a/qhJr7Et)
+[App Screenshot](https://imgur.com/a/qhJr7Et)
 
 
 ## Full Demo
